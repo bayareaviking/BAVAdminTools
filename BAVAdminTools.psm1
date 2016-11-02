@@ -1,6 +1,6 @@
 # Written by:   Marcus Larsson
 # Date Created: 2014-05-21
-# Last Updated: 2016-05-24
+# Last Updated: 2016-11-02
 # Purpose:      AD/Network Administration Module
 
 $ErrorActionPreference= 'silentlycontinue'
