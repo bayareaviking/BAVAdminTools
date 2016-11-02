@@ -1,7 +1,7 @@
 # Written by:   Marcus Larsson
 # Date Created: 2014-05-21
 # Last Updated: 2016-05-24
-# Purpose:      Custom Module for Autodesk
+# Purpose:      AD/Network Administration Module
 
 $ErrorActionPreference= 'silentlycontinue'
 $BAVDefaultMachine = $env:COMPUTERNAME
